@@ -26,24 +26,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/TECNICALAV99/zphisher.git
+$ git clone https://github.com/itzNuer/Aphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to `Aphisher` and run `Aphisher.sh` -
 ```
 $ cd Aphisher
 $ bash Aphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Aphisher` is installed.
-
-### Dependencies
-
-**`Aphisher`** requires following programs to run properly - 
-- `php`
-- `wget`
-- `curl`
-- `git`
+- On first launch, It'll install the dependencies and that's it. 
 
 
 
