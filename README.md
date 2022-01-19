@@ -39,7 +39,7 @@ $ bash Aphisher.sh
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`Aphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
